@@ -1,0 +1,36 @@
+cmake_minimum_required(VERSION 3.19)
+project(tiny-stl)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
+add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
+
+include_directories(./)
+file(GLOB_RECURSE SOURCES "utility/*.cpp" "fs/*.cpp")
+
+add_executable(main ${SOURCES} main.cpp)
+add_executable(random ${SOURCES} test/random.cpp)
+add_executable(array ${SOURCES} test/array.cpp)
+add_executable(vector ${SOURCES} test/vector.cpp)
+add_executable(list ${SOURCES} test/list.cpp)
+add_executable(forward_list ${SOURCES} test/forward_list.cpp)
+add_executable(deque ${SOURCES} test/deque.cpp)
+add_executable(heap ${SOURCES} test/heap.cpp)
+add_executable(stack ${SOURCES} test/stack.cpp)
+add_executable(queue ${SOURCES} test/queue.cpp)
+add_executable(skip_list ${SOURCES} test/skip_list.cpp)
+add_executable(bs_tree ${SOURCES} test/bs_tree.cpp)
+add_executable(avl_tree ${SOURCES} test/avl_tree.cpp)
+add_executable(rb_tree ${SOURCES} test/rb_tree.cpp)
+add_executable(b_tree ${SOURCES} test/b_tree.cpp)
+add_executable(bb_tree ${SOURCES} test/bb_tree.cpp)
+add_executable(bp_tree ${SOURCES} test/bp_tree.cpp)
+add_executable(map ${SOURCES} test/map.cpp)
+add_executable(set ${SOURCES} test/set.cpp)
+add_executable(hash_table ${SOURCES} test/hash_table.cpp)
+add_executable(hash_map ${SOURCES} test/hash_map.cpp)
+add_executable(hash_set ${SOURCES} test/hash_set.cpp)
+add_executable(trie ${SOURCES} test/trie.cpp)
+
+

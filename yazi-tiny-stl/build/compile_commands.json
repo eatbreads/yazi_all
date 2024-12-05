@@ -1,0 +1,577 @@
+[
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\main.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/main.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\rb_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\rb_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\rb_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\rb_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\rb_tree.dir\\test\\rb_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\rb_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/rb_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/random.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\random.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/random.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\random.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/random.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\random.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/random.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\random.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/random.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\random.dir\\test\\random.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\random.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/random.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vector.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vector.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vector.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vector.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vector.dir\\test\\vector.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\vector.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/vector.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\array.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\array.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\array.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\array.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\array.dir\\test\\array.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\array.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/array.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\list.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\list.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\list.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\list.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\list.dir\\test\\list.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\list.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/list.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\stack.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\stack.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\stack.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\stack.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\stack.dir\\test\\stack.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\stack.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/stack.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/heap.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\heap.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/heap.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\heap.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/heap.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\heap.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/heap.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\heap.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/heap.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\heap.dir\\test\\heap.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\heap.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/heap.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/forward_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\forward_list.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/forward_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\forward_list.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/forward_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\forward_list.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/forward_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\forward_list.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/forward_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\forward_list.dir\\test\\forward_list.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\forward_list.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/forward_list.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\set.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\set.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\set.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\set.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\set.dir\\test\\set.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\set.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/set.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/deque.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\deque.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/deque.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\deque.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/deque.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\deque.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/deque.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\deque.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/deque.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\deque.dir\\test\\deque.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\deque.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/deque.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bp_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bp_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bp_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bp_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bp_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bp_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bp_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bp_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bp_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bp_tree.dir\\test\\bp_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\bp_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/bp_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\queue.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\queue.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\queue.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\queue.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\queue.dir\\test\\queue.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\queue.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/queue.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/skip_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\skip_list.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/skip_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\skip_list.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/skip_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\skip_list.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/skip_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\skip_list.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/skip_list.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\skip_list.dir\\test\\skip_list.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\skip_list.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/skip_list.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bs_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bs_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bs_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bs_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bs_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bs_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bs_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bs_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bs_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bs_tree.dir\\test\\bs_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\bs_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/bs_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/avl_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\avl_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/avl_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\avl_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/avl_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\avl_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/avl_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\avl_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/avl_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\avl_tree.dir\\test\\avl_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\avl_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/avl_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bb_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bb_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bb_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bb_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/bb_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\bb_tree.dir\\test\\bb_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\bb_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/bb_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/b_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\b_tree.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/b_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\b_tree.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/b_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\b_tree.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/b_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\b_tree.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/b_tree.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\b_tree.dir\\test\\b_tree.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\b_tree.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/b_tree.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\map.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\map.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\map.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\map.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\map.dir\\test\\map.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\map.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/map.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_table.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_table.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_table.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_table.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_table.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_table.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_table.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_table.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_table.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_table.dir\\test\\hash_table.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\hash_table.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/hash_table.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_map.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_map.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_map.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_map.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_map.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_map.dir\\test\\hash_map.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\hash_map.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/hash_map.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_set.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_set.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_set.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_set.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/hash_set.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hash_set.dir\\test\\hash_set.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\hash_set.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/hash_set.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/trie.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\trie.dir\\fs\\directory.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\directory.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/directory.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/trie.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\trie.dir\\fs\\file.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\fs\\file.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/fs/file.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/trie.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\trie.dir\\utility\\string.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\string.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/string.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/trie.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\trie.dir\\utility\\time.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\utility\\time.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/utility/time.cpp"
+},
+{
+  "directory": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/trie.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\trie.dir\\test\\trie.cpp.obj -c \"D:\\BaiduNetdiskDownload\\c++ 数据结构资料\\tiny-stl\\tiny-stl\\test\\trie.cpp\"",
+  "file": "D:/BaiduNetdiskDownload/c++ 数据结构资料/tiny-stl/tiny-stl/test/trie.cpp"
+}
+]

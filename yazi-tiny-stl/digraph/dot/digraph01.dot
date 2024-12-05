@@ -1,0 +1,20 @@
+digraph {
+rankdir=TB;
+node[shape=circle fillcolor=gray90 style=filled fontsize=24];
+subgraph cluster_tree {
+label="trie : size = 4";
+pencolor=white;
+node2159240366672 -> node2159240366960;
+node2159240366960 -> node2159240366864;
+node2159240366864 -> node2159240367152;
+node2159240367152 -> node2159240379296;
+n1[style=invis];
+node2159240367152 -> n1[style=invis];
+node2159240367152 -> node2159240367248;
+node2159240366672[label=" "];
+node2159240366960[label="f"];
+node2159240366864[label="o" fillcolor=navy style=filled fontcolor=white];
+node2159240367152[label="o" fillcolor=navy style=filled fontcolor=white];
+node2159240379296[label="d" fillcolor=navy style=filled fontcolor=white];
+node2159240367248[label="t" fillcolor=navy style=filled fontcolor=white];
+}}
